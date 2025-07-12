@@ -5,8 +5,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.codmplug.com/sitemap.xml
-
+Sitemap: https://codmplug.vercel.app/sitemap.xml
 # =====================================================================
 # Disallow specific bad bots & scrapers
 # =====================================================================
